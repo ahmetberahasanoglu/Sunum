@@ -1,4 +1,4 @@
-# ⚔️ Titan Protocol: AI-Assisted FPS Prototype
+# ⚔️ AI-Assisted FPS Prototype
 
 ![Unity](https://img.shields.io/badge/Unity-2023%2B-black?style=flat&logo=unity)
 ![C#](https://img.shields.io/badge/C%23-Scripting-blue?style=flat&logo=csharp)
