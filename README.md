@@ -71,11 +71,11 @@ This project was built to demonstrate how AI tools (ChatGPT/Gemini/Claude) can b
 4.  Open the project and load the `MainScene` from the `Scenes` folder.
 5.  Press **Play**!
 
-## 📸 Gallery
+## 📂 Project Documentation
 
-| Combat | Movement |
-| :---: | :---: |
-| ![Combat](path/to/screenshot1.png) | ![Movement](path/to/screenshot2.png) |
+You can examine the detailed project presentation regarding the AI workflow and game design process below:
+
+[![View Presentation](https://img.shields.io/badge/View_Presentation-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](Docs/how.pdf)
 
 
 ---
