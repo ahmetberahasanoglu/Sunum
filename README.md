@@ -75,7 +75,7 @@ This project was built to demonstrate how AI tools (ChatGPT/Gemini/Claude) can b
 
 You can examine the detailed project presentation regarding the AI workflow and game design process below:
 
-[![View Presentation](https://img.shields.io/badge/View_Presentation-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](Docs/how.pdf)
+[![View Presentation](https://img.shields.io/badge/View_Presentation-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](Docs/how.pdf?raw=true)
 
 
 ---
